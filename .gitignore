@@ -1,0 +1,10 @@
+data/
+outputs/
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+*.pbix.bak
